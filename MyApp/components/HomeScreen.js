@@ -12,7 +12,7 @@ const HomeScreen = () => {
           <Image source={require('../assets/profile.png')} style={styles.profile} />
           <View style={styles.textSelection}>
             <Text style={styles.welcome}>Welcome Back,</Text>
-            <Text style={styles.cole}>Cole World</Text>
+            <Text style={styles.cole}>Felix Bawa</Text>
           </View>
         </View>
         <TouchableOpacity style={styles.search}>

@@ -1,2 +1,2 @@
-![Screenshot](<home.png>)
 ![Screenshot](<settings.png>)
+![Screenshot](<homescreen.png>)
